@@ -1,0 +1,25 @@
+{
+  "name": "styled-components-to-stitches",
+  "version": "1.0.0",
+  "description": "Refactor styled-components to stitches css components!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stitches",
+    "css",
+    "styled-components",
+    "styled",
+    "components",
+    "refactor"
+  ],
+  "author": "Desmond Sofua",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/parser": "^7.22.16",
+    "@babel/traverse": "^7.22.15",
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0"
+  }
+}
